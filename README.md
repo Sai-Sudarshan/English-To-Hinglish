@@ -35,10 +35,12 @@ This project artfully combines various components and leverages the following li
 To embark on this linguistic journey, follow these steps:
 
 1. **Clone the Repository:** Capture this repository's essence by cloning it to your local machine. Employ the following command:
+  ```bash
+   git clone https://github.com/YashaswiniJawalkar/English-to-Hinglish-Tanslation_Model.git
 
 
-2. **Install Dependencies:** Ensure that Python graces your system. If not, procure it from python.org. Subsequently, install the requisite Python libraries by executing these commands:
-3```bash
+3. **Install Dependencies:** Ensure that Python graces your system. If not, procure it from python.org. Subsequently, install the requisite Python libraries by executing these commands:
+```bash
     !pip install nltk
     !pip install googletrans==4.0.0-rc1
 
