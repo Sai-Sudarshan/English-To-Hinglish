@@ -47,8 +47,8 @@ Here's a step-by-step guide on how to use the code:
 
 # sample Output
 
-- **Enter a sentence**: i was waiting for the bag
-- **Hinglish Sentence**:i बैग का इंतजार कर रहा था
+- **Enter a sentence**: i was waiting for my bag
+- **Hinglish Sentence**:i अपने बैग का इंतजार कर रहा था
 - **Enter a sentence**: Definitely share your feedback in the comment section.
 - **Hinglish Sentence**: निश्चित रूप से comment section में अपनी feedback साझा करें।
 - **Enter a sentence**: So even if it's a big video, I will clearly mention all the products.
