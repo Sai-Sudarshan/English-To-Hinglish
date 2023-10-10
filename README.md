@@ -35,7 +35,7 @@ Here's a step-by-step guide on how to use the code:
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/YashaswiniJawalkar/English-to-Hinglish-Tanslation_Model.git
+   git clone https://github.com/Sai-Sudarshan/English-To-Hinglish.git
    
 2. **Install Dependencies**: Ensure Python is installed on your system. If not, you can download it from python.org. Afterward, install the necessary Python libraries by running these commands:
 
