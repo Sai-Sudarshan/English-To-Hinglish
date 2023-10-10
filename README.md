@@ -38,7 +38,7 @@ To embark on this linguistic journey, follow these steps:
 
 
 2. **Install Dependencies:** Ensure that Python graces your system. If not, procure it from python.org. Subsequently, install the requisite Python libraries by executing these commands:
-3. pip install nltk
-pip install googletrans==4.0.0-rc1
-
+3```bash
+    !pip install nltk
+    !pip install googletrans==4.0.0-rc1
 
